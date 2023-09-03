@@ -2,3 +2,4 @@
 
 
 This is just a basic implementation of flask I made while following a youtube video
+This uses a reddit api to fetch memes
